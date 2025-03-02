@@ -63,6 +63,7 @@ hr {
 
 a{
   text-decoration: none;
+<<<<<<< HEAD
 }
 
 /* Add a black background color to the top navigation */
@@ -95,3 +96,6 @@ a{
     background-color: #04AA6D;
     color: white;
   }
+=======
+}
+>>>>>>> 88f21cdd871ebc5c7a3b16b601f2653d01a9aa7d
